@@ -3,3 +3,6 @@ This repo is open source and contains a script that restarts Spotify. The goal o
 
 ## Current support - Linux Ubuntu
 Please bind the sh command with your keyboard shortcut.
+
+Prerequisites:
+  sudo apt install playerctl
